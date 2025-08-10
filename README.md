@@ -27,4 +27,6 @@
 
 
 
-<a href="http://www.github.com/kan1xx"><img src="https://github-readme-stats.vercel.app/api?username=kan1xx&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="" /></a> [![trophy](https://github-profile-trophy.vercel.app/?username=kan1xx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kan1xx&show_icons=true&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kan1xx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
