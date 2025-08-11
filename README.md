@@ -26,7 +26,7 @@
 <p align="left"> <a href="https://www.github.com/kan1xx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kan1xx&show_icons=true&theme=radical)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kan1xx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
