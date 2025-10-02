@@ -1,7 +1,7 @@
 <h1 align="left">Hey there 👋</h1>
 
 
-<p align="left">My name is Miroslav, I'm a beginner backend-developer</p>
+<p align="left">My name is Miroslav, I'm a backend-developer</p>
 
 ### I'm code with: 
 
