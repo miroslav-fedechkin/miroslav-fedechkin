@@ -1,6 +1,9 @@
 Hi 👋 My name is Miroslav
 =========================
 
+I used to focus on backend development, but right now I'm diving deep into Machine Learning, Mathematics, and AI. My long-term goal is to do research in the field of AGI (Artificial General Intelligence)
+
+I code with: 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
   &nbsp;
